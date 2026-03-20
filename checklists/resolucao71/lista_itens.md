@@ -56,7 +56,8 @@ Verificar a conformidade do requerimento com a Ficha template de referência: fi
 ### C.7 E-mail do contato na instalação
 
 ### C.8 Coordenadas Geográficas (no mínimo dois pontos)  
-**Obrigatório**
+**Obrigatório**  
+As coordenadas devem estar presentes e identificáveis. São aceitas coordenadas em graus decimais (ex.: -23.5505, -46.6333) ou em outros formatos convencionais (ex.: graus, minutos e segundos — GMS; graus e minutos decimais — GMD). Não exigir exclusivamente o formato decimal; verificar apenas a presença e identificabilidade das coordenadas.
 
 ---
 
@@ -84,7 +85,7 @@ Memorial descritivo das instalações do terminal, contendo:
 Descrição da poligonal das áreas por meio de coordenadas georreferenciadas, discriminando separadamente a área pretendida em terra, a área pretendida para a instalação física sobre a água, a área pretendida para berços de atracação e a área necessária para a bacia de evolução e para o canal de acesso.
 
 #### D.6.a.1
-A representação gráfica das áreas deverá ser apresentada em planta de situação em sistema de coordenadas SIRGAS 2000, em planilha eletrônica, identificando e demarcando as vias de acesso aquaviário (marítimo, fluvial ou lacustre) e terrestre (rodoviário, ferroviário e dutoviário), e outros empreendimentos situados nas adjacências do terminal, em especial outras instalações portuárias, quando houver, em escala adequada, com legendas e cotas, contendo o nome e assinatura do responsável técnico, bem como número de registro junto ao respectivo conselho regional de classe.
+A representação gráfica das áreas deverá ser apresentada em planta de situação em sistema de coordenadas SIRGAS 2000, identificando e demarcando as vias de acesso aquaviário (marítimo, fluvial ou lacustre) e terrestre (rodoviário, ferroviário e dutoviário), e outros empreendimentos situados nas adjacências do terminal, em especial outras instalações portuárias, quando houver.
 
 #### D.6.b
 Descrição de todos os acessos ao terminal: aquaviário (marítimo, fluvial ou lacustre) e terrestre (rodoviário, ferroviário e dutoviário) existentes e a serem construídos.
@@ -110,7 +111,7 @@ Valor global do investimento, devendo ser apresentado com a Anotação de Respon
 ### D.7 Item VII
 Título de propriedade do terreno, inscrição de ocupação, certidão de aforamento ou contrato de cessão sob regime de direito real, ou outro instrumento jurídico que assegure o direito de uso e fruição da área.
 
-### D.8 Item VIII
+### D.8 Item VIII (apenas exigido caso já haja ocupação de área; se não houver indicativo de ocupação nos autos, classificar como N/A)
 Último comprovante de recolhimento da taxa de ocupação ou do foro do ano em exercício ou Certidão Negativa de Débitos Patrimoniais do Imóvel.
 
 ### D.9 Item IX (não se aplica - não verificar)
@@ -156,7 +157,7 @@ Certidão declaratória acerca da disponibilidade do espaço físico em águas p
 Diligência da ANTAQ à SPU para a análise da disponibilidade de terreno e/ou de espaço físico em águas públicas da União.
 
 ### D.17 Item XVI
-Planta de locação das instalações do terminal, identificando as instalações de acostagem com indicação dos berços de atracação, as instalações de armazenagem, as áreas de circulação, as instalações gerais e as instalações de suprimentos existentes e projetadas, em escala adequada, com cotas, bem assim contendo a demarcação das áreas constantes da certidão de propriedade do terreno; devendo ser apresentada com a Anotação de Responsabilidade Técnica, ART, ou Registro de Responsabilidade Técnica, RRT, contendo o nome do responsável técnico, sua assinatura e número de registro no CREA/CAU. A área demonstrada na certidão de propriedade do terreno deverá ser identificada e demarcada na planta.
+Planta de locação das instalações do terminal, identificando as instalações de acostagem com indicação dos berços de atracação, as instalações de armazenagem, as áreas de circulação, as instalações gerais e as instalações de suprimentos existentes e projetadas, em escala adequada, com cotas, devendo ser apresentada com a Anotação de Responsabilidade Técnica, ART, ou Registro de Responsabilidade Técnica, RRT, contendo o nome do responsável técnico, sua assinatura e número de registro no CREA/CAU.
 
 ### D.18 Item XVII
 Planta das instalações de acostagem, em escala adequada, contendo vista superior e cortes transversais, com cotas, devendo ser apresentada com a Anotação de Responsabilidade Técnica, ART, ou Registro de Responsabilidade Técnica, RRT, contendo o nome do responsável técnico, sua assinatura e número de registro no CREA/CAU.
@@ -164,7 +165,7 @@ Planta das instalações de acostagem, em escala adequada, contendo vista superi
 ### D.19 Item XVIII (não se aplica - não verificar)
 Declaração da Autoridade Portuária de que a interessada, assim como as pessoas jurídicas que direta ou indiretamente, sejam-lhe controladoras, controladas, coligadas ou de controlador comum, que se encontram perante ela adimplentes. Em caso de não utilização da infraestrutura terrestre ou aquaviária construída e/ou mantida por autoridade Portuária, a declaração de próprio punho da empresa.
 
-### D.20 Item XIX (se couber)
+### D.20 Item XIX (não se aplica - não verificar)
 Declaração de adimplência perante a ANTAQ de todos os CNPJ das empresas pertencentes ao grupo econômico da requerente, controladoras, controladas, coligadas e controlador comum, ou declaração de sua inexistência.
 
 ## OBSERVAÇÃO FINAL
